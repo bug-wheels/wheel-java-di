@@ -1,5 +1,8 @@
 package com.github.sbb.di;
 
+/**
+ * 注入异常
+ */
 public class InjectException extends RuntimeException {
 
   private static final long serialVersionUID = 1L;
